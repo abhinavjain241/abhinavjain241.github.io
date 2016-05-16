@@ -3,7 +3,7 @@ name: Abhinav Jain
 bio: 'Student. Hacker. Loves Music and Travel.'
 
 # if it's an external image, update below for true
-external-image: false
+external-image: true
 picture: 'assets/images/profile.jpg'
 
 url: http://abhinavja.in
