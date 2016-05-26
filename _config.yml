@@ -3,7 +3,7 @@ name: Abhinav Jain
 bio: 'Student. Hacker. Loves Music and Travel.'
 
 # if it's an external image, update below for true
-external-image: true
+external-image: false
 picture: 'assets/images/profile.jpg'
 
 url: http://abhinavja.in
@@ -51,7 +51,7 @@ width: normal
 
 # if you don't need "about" or "blog", comment them out below
 # about: true
-# blog: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
