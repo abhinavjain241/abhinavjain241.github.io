@@ -5,7 +5,7 @@ date: 2016-05-25 00:32
 tag:
 - general
 blog: true
-star: true
+star: false
 ---
 
 So I have finally decided to settle on a template for my website, after searching too long, and it fits all my requirements. It is elegant, minimalistic, has a medium-style blog with markdown support, and is built on top of Jekyll. It's called [Indigo](https://github.com/sergiokopplin/indigo) and has been built by [Sergio Kopplin](https://github.com/sergiokopplin).
