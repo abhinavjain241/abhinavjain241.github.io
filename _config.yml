@@ -1,6 +1,7 @@
 # main text of home
 name: Abhinav Jain
-bio: 'love music, code and coffee.'
+# bio: '&#128420; music, code and coffee.'
+bio: 'software engineer • musician'
 
 # if it's an external image, update below for true
 external-image: false
@@ -37,6 +38,8 @@ github: abhinavjain241
 # vimeo: myvimeo
 email: abhinavjain241@gmail.com
 
+resume: true
+
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
@@ -50,7 +53,7 @@ width: normal
 # projects: true
 
 # if you don't need "about" or "blog", comment them out below
-# about: true
+about: false
 blog: false
 
 # do you want to show the "read time" of the posts?
