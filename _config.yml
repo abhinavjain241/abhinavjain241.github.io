@@ -23,10 +23,10 @@ analytics-google: 'UA-78547042-1'
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+# disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: abhinav.jain2
+# facebook: abhinav.jain2
 twitter: abhinavjain241
 # google: mygoogle
 instagram: abhinavjain2
@@ -36,7 +36,7 @@ linkedin: abhinavjain241
 github: abhinavjain241
 # medium: mymedium
 # vimeo: myvimeo
-email: abhinavjain241@gmail.com
+email: mail@abhinavja.in
 
 resume: true
 
